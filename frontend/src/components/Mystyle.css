@@ -1,0 +1,26 @@
+.set{
+    height: 1000px;
+    width: 1000px;
+    position: relative;
+}
+.flex{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    font-size: large;
+    font-weight: 90px;
+    color: rgb(9, 8, 8);
+}
+.position{
+   
+    display: flex;
+}
+#next_prev {
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    height: 60px;
+    width: 100px;
+    background-color: aquamarine;
+}
